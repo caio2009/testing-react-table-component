@@ -1,0 +1,13 @@
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table thead tr th, .table tbody tr td {
+  padding: 8px;
+  border: 1px solid black;
+}
+
+.table thead tr th {
+  text-align: left;
+}
